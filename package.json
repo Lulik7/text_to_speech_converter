@@ -1,5 +1,5 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "text_to_speech_converter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
